@@ -1,0 +1,1 @@
+class Sobaka extends Component{}
